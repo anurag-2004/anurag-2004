@@ -65,7 +65,7 @@
 
 </br>
 <p align=center>
-<img src="https://streak-stats.demolab.com?user=anurag-2004&theme=dark&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="anu's_streak" />
+<img src="https://streak-stats.demolab.com?user=anurag-2004&theme=light" alt="anu's_streak" />
 </p>
 
 <p align="center">
