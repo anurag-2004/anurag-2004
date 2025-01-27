@@ -71,17 +71,17 @@
   <img src="https://img.shields.io/badge/-C-FF9933?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-C++-FF9933?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-FF9933?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-FFFFFF?style=for-the-badge&logo=flutter&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-FF9933?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-React-FF9933?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-FF9933?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-TensorFlow-FF9933?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Dart-FFFFFF?style=for-the-badge&logo=dart&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Appwrite-FFFFFF?style=for-the-badge&logo=appwrite&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Git-008000?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-008000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-FF9933?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-FFFFFF?style=for-the-badge&logo=dart&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=dart&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-FFFFFF?style=for-the-badge&logo=dart&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-NumPy-008000?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-008000?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
