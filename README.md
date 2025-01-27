@@ -1,4 +1,3 @@
-
 <h1 style="text-align: center; font-family: 'Arial Black', sans-serif; letter-spacing: 2px; color: #FF8C00; display: inline;">
   ✨ ʜᴇʏ, ɪ'ᴍ <span style="color: #1E90FF; text-shadow: 2px 2px 4px #000;" >ＡＮＵＲＡＧ ＭＯＨＡＮＴＹ</span> ✨
 </h1>
@@ -64,8 +63,10 @@
   </a>
 </div>
 
-
+</br>
+<p align=center>
 <img src="https://streak-stats.demolab.com?user=anurag-2004&theme=dark&ring=f7e901&fire=f7e901&currStreakLabel=f7e901" alt="anu's_streak" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-FF9933?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
