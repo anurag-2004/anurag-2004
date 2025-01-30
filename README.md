@@ -22,7 +22,7 @@
     <a href="https://www.instagram.com/infinite_9soul/">
       <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black">
     </a>
-    <a href="https://leetcode.com/mohantyanurag/">
+    <a href="https://leetcode.com/AnuragMohanty/">
       <img src="https://img.shields.io/badge/LeetCode-000080?style=for-the-badge&logo=leetCode&logoColor=white">
     </a>
     <a href="https://codeforces.com/profile/mohantyanurag2004">
