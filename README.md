@@ -39,7 +39,7 @@
 
 <p align="middle"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anurag-2004&theme=flat&no-frame=true&margin-w=15&row=1&column=6&title=Followers,Stars,Commits,Repositories,Issues,PullRequest&title_color=FF9933,FFFFFF,FFFFFF,008000,008000,FFFFFF&icon_color=FFFFFF" alt="Jagpreet153 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anurag-2004&theme=flat&no-frame=true&margin-w=15&row=1&column=6&title=Followers,Stars,Commits,Repositories,Issues,PullRequest&title_color=FF9933,FFFFFF,FFFFFF,008000,008000,FFFFFF&icon_color=FFFFFF" alt="Anu's Trophies" />
   </a> 
 </p>
 
